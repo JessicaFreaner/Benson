@@ -1,5 +1,4 @@
-# Benson
-Exploring MTA Data
+# Benson - Exploring MTA Data
 
 First project within the Metis Bootcamp. Asked to conceptualize a client problem and solution, my team chose to revlutionize the MTA. 
 
