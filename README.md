@@ -1,6 +1,6 @@
 # Benson - Exploring MTA Data
 
-First project within the Metis Bootcamp. Asked to conceptualize a client problem and solution, my team chose to revlutionize the MTA. 
+First project within the Metis Bootcamp. Asked to conceptualize a client problem and solution, my team chose to revolutionize the MTA. 
 
 Have you ever been on a platform and the train was so crowded you had to wait for the next one? And then the next one? And so on?
 
@@ -8,7 +8,7 @@ Wouldn't it be great if we knew WHEN and WHERE trains were going to be so CONGES
 
 We devised a metro route app that would included congestion traffic warnings if a given route met threshold congestion. 
 
-Ipython Notebook file is the initial cleaning and analysis of the dataset.
+iPython Notebook file is the initial cleaning and analysis of the dataset.
 
 PDF is the final client-ready presentation of our team's findings and proposal of metro route app.
 
