@@ -1,5 +1,4 @@
 # Benson - Exploring MTA Data
-!["MTA"](https://cloud.githubusercontent.com/assets/9892419/7357360/45abe216-ecfc-11e4-8882-731f9da85b41.png)
 
 First project within the Metis Bootcamp. Asked to conceptualize a client problem and solution, my team chose to revolutionize the MTA. 
 
@@ -13,7 +12,6 @@ Wouldn't it be great if we knew WHEN and WHERE trains were going to be so CONGES
 !["Crowded Car"](https://cloud.githubusercontent.com/assets/9892419/7356660/ace14fac-ecf7-11e4-86f5-d14d7bbb8c33.jpg)
 
 We devised a metro route app that would included congestion traffic warnings if a given route met threshold congestion. 
-!["Our App"](https://cloud.githubusercontent.com/assets/9892419/7357068/589da15e-ecfa-11e4-8f61-5bd2dfb0f5b2.jpg)
 
 iPython Notebook file is the initial cleaning and analysis of the dataset.
 
