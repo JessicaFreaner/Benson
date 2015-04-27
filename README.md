@@ -13,7 +13,7 @@ Ipython Notebook file is the initial cleaning and analysis of the dataset.
 PDF is the final client-ready presentation of our team's findings and proposal of metro route app.
 
 ##Other Metis Projects:
-[Luther](jessicafreaner.github.io/Luther/ "Luther")
-[McNulty](jessicafreaner.github.io/McNulty/ "McNulty")
-[Fletcher](jessicafreaner.github.io/Fletcher/ "Fletcher")
-[Kojak](jessicafreaner.github.io/Kojak/ "Kojak")
+[Luther](jessicafreaner.github.io/Luther/ "Exploring Movie Data")
+[McNulty](jessicafreaner.github.io/McNulty/ "Exploring Heart Health Data")
+[Fletcher](jessicafreaner.github.io/Fletcher/ "Exploring Data with NLP")
+[Kojak](jessicafreaner.github.io/Kojak/ "Exploring NYC's Moving Populations")
