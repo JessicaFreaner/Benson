@@ -17,7 +17,7 @@ We devised a metro route app that would included congestion traffic warnings if 
 
 iPython Notebook file is the initial cleaning and analysis of the dataset.
 
-PDF is the final client-ready presentation of our team's findings and proposal of metro route app.
+PDF is the final [client-ready presentation](http://www.slideshare.net/JessFreaner/jtag-project-bensonrev06 "Slideshare") of our team's findings and proposal of metro route app.
 
 ![ThisIsMetis](https://cloud.githubusercontent.com/assets/9892419/7356548/e1a3b3ac-ecf6-11e4-8fb6-be39f563742e.jpg) 
 ##Other Metis Projects:
